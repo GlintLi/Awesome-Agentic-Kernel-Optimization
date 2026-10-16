@@ -13,7 +13,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 ## Surveys
 | Title | Venue | Date | Code | Demo |
 |:---|:---:|:---:|:---:|:---:|
-| [![GitHub stars](https://img.shields.io/github/stars/flagos-ai/awesome-LLM-driven-kernel-generation?style=social)](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation) [**Towards Automated Kernel Generation in the Era of LLMs**](https://arxiv.org/pdf/2601.15727) | arXiv | 2026-01-06 | [Github](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation) | - |
+| [![GitHub stars](https://img.shields.io/github/stars/flagos-ai/awesome-LLM-driven-kernel-generation?style=social)](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation)<br>[**Towards Automated Kernel Generation in the Era of LLMs**](https://arxiv.org/pdf/2601.15727) | arXiv | 2026-01-06 | [Github](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation) | - |
 ## Agentic Kernel Optimization
 | Title | Venue | Date | Code | Demo |
 |:---|:---:|:---:|:---:|:---:|

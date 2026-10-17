@@ -23,3 +23,8 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 ## Benchmarks for Evaluation
 | Title | Venue | Date | Code | Demo |
 |:---|:---:|:---:|:---:|:---:|
+| [**LoopsBench: From Harness Engineering to Loop Engineering in Coding Agent Evaluation**](https://arxiv.org/pdf/2608.00267) | arXiv | 2026-07-31 | [Github](https://github.com/microsoft/Loopsbench) | [Project Page](https://loopsbench.ai/) |
+| [**CUDABench: Benchmarking LLMs for Text-to-CUDA Generation**](https://arxiv.org/pdf/2603.02236) | arXiv | 2026-02-13 | [Github](https://github.com/CUDA-Bench/CUDABench) | - |
+| [**KernelBench: Can LLMs Write Efficient GPU Kernels?**](https://arxiv.org/pdf/2502.10517) | arXiv | 2025-02-14 | [Github](https://github.com/ScalingIntelligence/KernelBench) | - |
+| [**KernelBench-Verified: Do LLM-Generated Kernels Actually Beat PyTorch?**](https://arxiv.org/pdf/2607.16241) | arXiv | 2026-06-26 | [Github](https://github.com/facebookresearch/kernel_bench_verified) | - |
+| [**D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?**](https://arxiv.org/pdf/2610.03226) | arXiv | 2026-10-02 | - | - |

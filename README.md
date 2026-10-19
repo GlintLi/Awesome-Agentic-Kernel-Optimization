@@ -5,6 +5,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 - [Awesome Papers](#awesome-papers)
   - [Surveys](#surveys)
   - [Harness Workflow Standardization](#harness-workflow-standardization)
+  - [Training-Based Kernel Generation](#training-based-kernel-generation)
   - [Search-Based Multi-Agent Systems](#search-based-multi-agent-systems)
   - [RAG-Based Multi-Agent Systems](#rag-based-multi-agent-systems)
 - [Awesome Datasets](#awesome-datasets)
@@ -22,6 +23,10 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
 | [![GitHub stars](https://img.shields.io/github/stars/syhya/mlsys26-flashinfer-contest?style=social)](https://github.com/syhya/mlsys26-flashinfer-contest)<br>[**Harness Engineering for LLM-Driven GPU Kernel Generation**](https://arxiv.org/pdf/2607.17979) | arXiv | 2026-07-20 | [Github](https://github.com/syhya/mlsys26-flashinfer-contest) | - |
+## Training-Based Kernel Generation
+| Title | Venue | Date | Code | QuickTake |
+|:---|:---:|:---:|:---:|:---:|
+| [![GitHub stars](https://img.shields.io/github/stars/Wangyaoyuu/SparseRL?style=social)](https://github.com/Wangyaoyuu/SparseRL)<br>[**Mastering Sparse CUDA Generation through Pretrained Models and Deep Reinforcement Learning**](https://openreview.net/forum?id=VdLEaGPYWT) | ICLR 2026 (Oral) | 2026-01-26 | [Github](https://github.com/Wangyaoyuu/SparseRL) | - |
 ## Search-Based Multi-Agent Systems
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|

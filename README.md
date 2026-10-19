@@ -10,7 +10,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 - [Awesome Datasets](#awesome-datasets)
   - [Benchmarks for Evaluation](#benchmarks-for-evaluation)
 
-QuickTake: Each paper’s core technique at a glance.
+**QuickTake: Each paper’s core technique at a glance.**
 
 # Awesome Papers
 ## Surveys

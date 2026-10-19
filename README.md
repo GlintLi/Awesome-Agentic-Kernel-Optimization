@@ -17,6 +17,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
 | [![GitHub stars](https://img.shields.io/github/stars/flagos-ai/awesome-LLM-driven-kernel-generation?style=social)](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation)<br>[**Towards Automated Kernel Generation in the Era of LLMs**](https://arxiv.org/pdf/2601.15727) | arXiv | 2026-01-22 | [Github](https://github.com/flagos-ai/awesome-LLM-driven-kernel-generation) | - |
+| [![GitHub stars](https://img.shields.io/github/stars/qhy991/Awesome-LLM-Kernel-Agent?style=social)](https://github.com/qhy991/Awesome-LLM-Kernel-Agent)<br>[**Awesome LLM Kernel Agent**](https://github.com/qhy991/Awesome-LLM-Kernel-Agent) | Github | 2025-11-09 | [Github](https://github.com/qhy991/Awesome-LLM-Kernel-Agent) | - |
 ## Harness Workflow Standardization
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|

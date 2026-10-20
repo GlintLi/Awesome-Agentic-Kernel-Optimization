@@ -22,7 +22,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 ## Harness Workflow Standardization
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
-| [![GitHub stars](https://img.shields.io/github/stars/syhya/mlsys26-flashinfer-contest?style=social)](https://github.com/syhya/mlsys26-flashinfer-contest)<br>[**Harness Engineering for LLM-Driven GPU Kernel Generation**](https://arxiv.org/pdf/2607.17979) | arXiv | 2026-07-20 | [Github](https://github.com/syhya/mlsys26-flashinfer-contest) | - |
+| [![GitHub stars](https://img.shields.io/github/stars/syhya/mlsys26-flashinfer-contest?style=social)](https://github.com/syhya/mlsys26-flashinfer-contest)<br>[**Harness Engineering for LLM-Driven GPU Kernel Generation**](https://arxiv.org/pdf/2607.17979) | arXiv | 2026-07-20 | [Github](https://github.com/syhya/mlsys26-flashinfer-contest) | SKILL |
 ## Training-Based Kernel Generation
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|

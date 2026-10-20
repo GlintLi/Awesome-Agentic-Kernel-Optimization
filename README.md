@@ -36,7 +36,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 ## RAG-Based Multi-Agent Systems
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
-| [![GitHub stars](https://img.shields.io/github/stars/UMN-APEX-Lab/StitchCUDA?style=social)](https://github.com/UMN-APEX-Lab/StitchCUDA)<br>[**StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning**](https://arxiv.org/pdf/2603.02637) | ICML 2026 | 2026-03-03 | [Github](https://github.com/UMN-APEX-Lab/StitchCUDA) | - |
+| [![GitHub stars](https://img.shields.io/github/stars/UMN-APEX-Lab/StitchCUDA?style=social)](https://github.com/UMN-APEX-Lab/StitchCUDA)<br>[**StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning**](https://arxiv.org/pdf/2603.02637) | ICML 2026 | 2026-03-03 | [Github](https://github.com/UMN-APEX-Lab/StitchCUDA) | Chroma |
 
 # Awesome Datasets
 ## Benchmarks for Evaluation

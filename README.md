@@ -26,6 +26,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 ## Training-Based Kernel Generation
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
+| [![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/daVinci-kernel?style=social)](https://github.com/GAIR-NLP/daVinci-kernel)<br>[**daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization**](https://arxiv.org/pdf/2606.16497) | arXiv | 2026-06-15 | [Github](https://github.com/GAIR-NLP/daVinci-kernel) | - |
 | [![GitHub stars](https://img.shields.io/github/stars/Wangyaoyuu/SparseRL?style=social)](https://github.com/Wangyaoyuu/SparseRL)<br>[**Mastering Sparse CUDA Generation through Pretrained Models and Deep Reinforcement Learning**](https://openreview.net/forum?id=VdLEaGPYWT) | ICLR<br>2026 | 2026-01-26 | [Github](https://github.com/Wangyaoyuu/SparseRL) | RLFT |
 ## Search-Based Multi-Agent Systems
 | Title | Venue | Date | Code | QuickTake |

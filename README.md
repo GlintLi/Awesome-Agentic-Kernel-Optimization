@@ -31,6 +31,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
 | [**Optimizing CUDA like a Human: Micro-Profiling Tools as Expert Surrogates for LLM-Based GPU Kernel Optimization**](https://arxiv.org/pdf/2606.26453) | arXiv | 2026-06-24 | - | MCTS |
+| [**Kernel Foundry: A Diagnosis-driven Evolutionary Kernel Optimizer with Multi-Experts**](https://arxiv.org/pdf/2605.30359) | arXiv | 2026-05-08 | - | - |
 | [![GitHub stars](https://img.shields.io/github/stars/OptimAI-Lab/CudaForge?style=social)](https://github.com/OptimAI-Lab/CudaForge)<br>[**CudaForge: An Agent Framework with Hardware Feedback for CUDA Kernel Optimization**](https://arxiv.org/pdf/2511.01884) | arXiv | 2025-10-23 | [Github](https://github.com/OptimAI-Lab/CudaForge) | Greedy |
 | [![GitHub stars](https://img.shields.io/github/stars/SakanaAI/robust-kbench?style=social)](https://github.com/SakanaAI/robust-kbench)<br>[**Towards Robust Agentic CUDA Kernel Benchmarking, Verification, and Optimization**](https://arxiv.org/pdf/2509.14279) | arXiv | 2025-09-16 | [Github](https://github.com/SakanaAI/robust-kbench) | EA |
 ## RAG-Based Multi-Agent Systems

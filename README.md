@@ -37,6 +37,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 ## RAG-Based Multi-Agent Systems
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
+| [**HTAM: Hierarchical Transition-Attended Memory for Operator Optimization**](https://arxiv.org/pdf/2605.29734) | arXiv | 2026-05-28 | - | - |
 | [![GitHub stars](https://img.shields.io/github/stars/UMN-APEX-Lab/StitchCUDA?style=social)](https://github.com/UMN-APEX-Lab/StitchCUDA)<br>[**StitchCUDA: An Automated Multi-Agents End-to-End GPU Programing Framework with Rubric-based Agentic Reinforcement Learning**](https://arxiv.org/pdf/2603.02637) | ICML 2026 | 2026-03-03 | [Github](https://github.com/UMN-APEX-Lab/StitchCUDA) | Chroma |
 | [**KernelBlaster: Continual Cross-Task CUDA Optimization via Memory-Augmented In-Context Reinforcement Learning**](https://arxiv.org/pdf/2602.14293) | arXiv | 2026-02-15 | - | - |
 

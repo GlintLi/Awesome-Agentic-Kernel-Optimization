@@ -6,7 +6,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
   - [Surveys](#surveys)
   - [Harness Workflow Standardization](#harness-workflow-standardization)
   - [Training-Based Kernel Generation](#training-based-kernel-generation)
-  - [Search-Based Multi-Agent Systems](#search-based-multi-agent-systems)
+  - [Search-Based Systems](#search-based-systems)
   - [Memory-Based Systems](#memory-based-systems)
 - [Awesome Datasets](#awesome-datasets)
   - [Benchmarks for Evaluation](#benchmarks-for-evaluation)
@@ -28,7 +28,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 |:---|:---:|:---:|:---:|:---:|
 | [![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/daVinci-kernel?style=social)](https://github.com/GAIR-NLP/daVinci-kernel)<br>[**daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization**](https://arxiv.org/pdf/2606.16497) | arXiv | 2026-06-15 | [Github](https://github.com/GAIR-NLP/daVinci-kernel) | SKILL |
 | [![GitHub stars](https://img.shields.io/github/stars/Wangyaoyuu/SparseRL?style=social)](https://github.com/Wangyaoyuu/SparseRL)<br>[**Mastering Sparse CUDA Generation through Pretrained Models and Deep Reinforcement Learning**](https://openreview.net/forum?id=VdLEaGPYWT) | ICLR<br>2026 | 2026-01-26 | [Github](https://github.com/Wangyaoyuu/SparseRL) | RLFT |
-## Search-Based Multi-Agent Systems
+## Search-Based Systems
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
 | [**Optimizing CUDA like a Human: Micro-Profiling Tools as Expert Surrogates for LLM-Based GPU Kernel Optimization**](https://arxiv.org/pdf/2606.26453) | arXiv | 2026-06-24 | - | MCTS |

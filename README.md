@@ -7,7 +7,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
   - [Harness Workflow Standardization](#harness-workflow-standardization)
   - [Training-Based Kernel Generation](#training-based-kernel-generation)
   - [Search-Based Multi-Agent Systems](#search-based-multi-agent-systems)
-  - [RAG-Based Multi-Agent Systems](#rag-based-multi-agent-systems)
+  - [Memory-Based Multi-Agent Systems](#memory-based-multi-agent-systems)
 - [Awesome Datasets](#awesome-datasets)
   - [Benchmarks for Evaluation](#benchmarks-for-evaluation)
 
@@ -35,7 +35,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 | [**Kernel Foundry: A Diagnosis-driven Evolutionary Kernel Optimizer with Multi-Experts**](https://arxiv.org/pdf/2605.30359) | arXiv | 2026-05-08 | - | Multi-Island EA |
 | [![GitHub stars](https://img.shields.io/github/stars/OptimAI-Lab/CudaForge?style=social)](https://github.com/OptimAI-Lab/CudaForge)<br>[**CudaForge: An Agent Framework with Hardware Feedback for CUDA Kernel Optimization**](https://arxiv.org/pdf/2511.01884) | arXiv | 2025-10-23 | [Github](https://github.com/OptimAI-Lab/CudaForge) | Greedy |
 | [![GitHub stars](https://img.shields.io/github/stars/SakanaAI/robust-kbench?style=social)](https://github.com/SakanaAI/robust-kbench)<br>[**Towards Robust Agentic CUDA Kernel Benchmarking, Verification, and Optimization**](https://arxiv.org/pdf/2509.14279) | arXiv | 2025-09-16 | [Github](https://github.com/SakanaAI/robust-kbench) | EA |
-## RAG-Based Multi-Agent Systems
+## Memory-Based Multi-Agent Systems
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
 | [**HTAM: Hierarchical Transition-Attended Memory for Operator Optimization**](https://arxiv.org/pdf/2605.29734) | arXiv | 2026-05-28 | - | Coarse-Fine Memory |

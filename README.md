@@ -36,6 +36,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 | [![GitHub stars](https://img.shields.io/github/stars/OptimAI-Lab/CudaForge?style=social)](https://github.com/OptimAI-Lab/CudaForge)<br>[**CudaForge: An Agent Framework with Hardware Feedback for CUDA Kernel Optimization**](https://arxiv.org/pdf/2511.01884) | arXiv | 2025-10-23 | [Github](https://github.com/OptimAI-Lab/CudaForge) | Greedy |
 | [![GitHub stars](https://img.shields.io/github/stars/SakanaAI/robust-kbench?style=social)](https://github.com/SakanaAI/robust-kbench)<br>[**Towards Robust Agentic CUDA Kernel Benchmarking, Verification, and Optimization**](https://arxiv.org/pdf/2509.14279) | arXiv | 2025-09-16 | [Github](https://github.com/SakanaAI/robust-kbench) | EA |
 | [**CUDA-LLM: LLMs Can Write Efficient CUDA Kernels**](https://arxiv.org/pdf/2506.09092) | arXiv | 2025-06-10 | - | - |
+| [![GitHub stars](https://img.shields.io/github/stars/ucb-bar/autocomp?style=social)](https://github.com/ucb-bar/autocomp)<br>[**Autocomp: A Powerful and Portable Code Optimizer for Tensor Accelerators**](https://arxiv.org/pdf/2505.18574) | arXiv | 2025-05-24 | [Github](https://github.com/ucb-bar/autocomp) | - |
 ## Memory-Based Systems
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|

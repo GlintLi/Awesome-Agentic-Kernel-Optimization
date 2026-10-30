@@ -23,7 +23,7 @@ A collection of papers, systems, benchmarks, and tools for agentic kernel optimi
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
 | [![GitHub stars](https://img.shields.io/github/stars/syhya/mlsys26-flashinfer-contest?style=social)](https://github.com/syhya/mlsys26-flashinfer-contest)<br>[**Harness Engineering for LLM-Driven GPU Kernel Generation**](https://arxiv.org/pdf/2607.17979) | arXiv | 2026-07-20 | [Github](https://github.com/syhya/mlsys26-flashinfer-contest) | SKILL |
-| [**CUDA-LLM: LLMs Can Write Efficient CUDA Kernels**](https://arxiv.org/pdf/2506.09092) | arXiv | 2025-06-10 | - | - |
+| [**CUDA-LLM: LLMs Can Write Efficient CUDA Kernels**](https://arxiv.org/pdf/2506.09092) | arXiv | 2025-06-10 | - | Two-Stage Refinement |
 ## Training-Based Kernel Generation
 | Title | Venue | Date | Code | QuickTake |
 |:---|:---:|:---:|:---:|:---:|
